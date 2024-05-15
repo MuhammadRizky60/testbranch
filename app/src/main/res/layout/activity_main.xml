@@ -128,4 +128,6 @@
         app:layout_constraintGuide_percent="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
+    mekemekemkemekmekmekekmk
+
 </androidx.constraintlayout.widget.ConstraintLayout>
