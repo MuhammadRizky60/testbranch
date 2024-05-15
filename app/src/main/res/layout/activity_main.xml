@@ -231,6 +231,8 @@
         app:layout_constraintTop_toBottomOf="@+id/descTextView"
         tools:alpha="100" />
 
+    sadasdasssssssssssssssssssssssssssssssssssssssssssssss
+
     <Button
         android:id="@+id/sdfsdf"
         android:layout_width="match_parent"
